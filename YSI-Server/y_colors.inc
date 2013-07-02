@@ -58,4 +58,4 @@ Changelog:
 </remarks>
 \**--------------------------------------------------------------------------**/
 
-#include "..\YSI-Server\y_colours"
+#include "..\YSI_Server\y_colours"
